@@ -52,7 +52,7 @@ const GameCard = ({
         </h3>
         <p className="text-foreground/70 mb-4 line-clamp-2">{description}</p>
 
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between px-0 mx-0">
           <div className="flex items-center space-x-2 text-foreground/60">
             <Icon name="Users" size={16} />
             <span className="text-sm">{players}</span>

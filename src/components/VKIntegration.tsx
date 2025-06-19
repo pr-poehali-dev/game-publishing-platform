@@ -62,10 +62,15 @@ const VKIntegration = () => {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <button className="game-gradient px-8 py-4 rounded-full text-white font-semibold text-lg hover-glow flex items-center space-x-2 transition-all">
-              <Icon name="ExternalLink" size={24} />
-              <span>Подключить VK</span>
-            </button>
+            <a
+              href="https://vk.com/nexplay_games?from=groups"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="game-gradient px-8 py-4 rounded-full text-white font-semibold text-lg hover-glow flex items-center space-x-2 transition-all"
+            >
+              <Icon name="Users" size={24} />
+              <span>Присоединиться к сообществу VK</span>
+            </a>
 
             <button className="text-foreground/70 hover:text-foreground transition-colors flex items-center space-x-2">
               <Icon name="HelpCircle" size={20} />

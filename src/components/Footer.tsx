@@ -21,16 +21,18 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://vk.com/nexplay_games?from=groups"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-10 h-10 bg-game-purple/10 rounded-full flex items-center justify-center hover:bg-game-purple hover:text-white transition-all"
               >
-                <Icon name="MessageCircle" size={18} />
+                <Icon name="Users" size={18} />
               </a>
               <a
                 href="#"
                 className="w-10 h-10 bg-game-purple/10 rounded-full flex items-center justify-center hover:bg-game-purple hover:text-white transition-all"
               >
-                <Icon name="Users" size={18} />
+                <Icon name="MessageCircle" size={18} />
               </a>
               <a
                 href="#"

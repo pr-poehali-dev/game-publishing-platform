@@ -24,7 +24,7 @@ const Hero = () => {
               Играй
             </span>
             <br />
-            <span className="text-foreground">с друзьями</span>
+            <span className="text-foreground">в онлайн</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-foreground/80 mb-8 font-rubik">

@@ -10,7 +10,7 @@ const Header = () => {
               <Icon name="Gamepad2" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-montserrat font-bold bg-gradient-to-r from-game-purple to-game-pink bg-clip-text text-transparent">
-              PlayHub
+              NEXPLAY
             </span>
           </div>
 

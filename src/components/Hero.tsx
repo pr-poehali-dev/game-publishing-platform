@@ -35,7 +35,7 @@ const Hero = () => {
               <span>Начать играть</span>
             </button>
 
-            <button className="border-2 border-game-purple text-game-purple px-8 py-4 rounded-full font-semibold text-lg hover:bg-game-purple hover:text-white transition-all flex items-center space-x-2">
+            <button className="border-2 border-game-purple text-game-purple px-8 py-4 rounded-full font-semibold text-lg hover:bg-game-purple hover:text-white transition-all flex items-center space-x-2 mx-0">
               <Icon name="Users" size={24} />
               <span>Присоединиться к сообществу</span>
             </button>

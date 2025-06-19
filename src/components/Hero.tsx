@@ -44,15 +44,15 @@ const Hero = () => {
           <div className="flex justify-center items-center space-x-8 text-foreground/60">
             <div className="flex items-center space-x-2">
               <Icon name="Users" size={20} />
-              <span>5M+ игроков</span>
+              <span>0+ игроков</span>
             </div>
             <div className="flex items-center space-x-2">
               <Icon name="Trophy" size={20} />
-              <span>100+ игр</span>
+              <span>1+ игр</span>
             </div>
             <div className="flex items-center space-x-2">
               <Icon name="Star" size={20} />
-              <span>4.8 рейтинг</span>
+              <span>0 рейтинг</span>
             </div>
           </div>
         </div>

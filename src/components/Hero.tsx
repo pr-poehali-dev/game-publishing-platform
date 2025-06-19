@@ -27,11 +27,7 @@ const Hero = () => {
             <span className="text-foreground">в онлайн</span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-foreground/80 mb-8 font-rubik">
-            Тысячи казуальных игр для социальных сетей.
-            <br className="hidden md:block" />
-            Соревнуйся, делись результатами, получай награды!
-          </p>
+          <p className="text-xl md:text-2xl text-foreground/80 mb-8 font-rubik"></p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <button className="game-gradient px-8 py-4 rounded-full text-white font-semibold text-lg hover-glow flex items-center space-x-2 transition-all animate-pulse-glow">

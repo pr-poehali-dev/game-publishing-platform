@@ -29,7 +29,7 @@ const Header = () => {
             </a>
             <a
               href="#community"
-              className="text-foreground/80 hover:text-foreground transition-colors"
+              className="https://vk.com/nexplay_games?from=groups"
             >
               Сообщество
             </a>

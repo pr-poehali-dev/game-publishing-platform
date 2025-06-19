@@ -27,10 +27,7 @@ const Header = () => {
             >
               Новости
             </a>
-            <a
-              href="#community"
-              className="https://vk.com/nexplay_games?from=groups"
-            >
+            <a href="#community" className="">
               Сообщество
             </a>
           </nav>
